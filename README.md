@@ -9,7 +9,7 @@
 - 🔍 I spend more time in logs than I’d like to admit.
 - 🚧 Building Spring Boot apps, Java tools, and developer utilities.
 - 💬 I love talking about software design, performance tuning, and tech culture.
-
+<!--
 ---
 
 ### 🛠️ Tech Stack
@@ -20,7 +20,7 @@ Frameworks:    Spring Boot, JPA, REST APIs
 Dev Tools:     IntelliJ, Git, Maven, Postman
 Other:         Anaplan, Bash, GitHub Actions
 
-<!--
+
 **BugLife-404/buglife-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
